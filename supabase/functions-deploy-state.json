@@ -1,0 +1,9 @@
+{
+  "projectId": "72200336",
+  "functions": {
+    "collect-news": {
+      "hasChanged": false,
+      "hash": "51f11bff284d5db6050d8587a33d2e53579e9c9d73c8b018bd274f3ba76a2229"
+    }
+  }
+}

@@ -1,0 +1,2 @@
+[functions.collect-news]
+verify_jwt = false
